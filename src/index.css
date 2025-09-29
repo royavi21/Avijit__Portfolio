@@ -49,7 +49,7 @@
 
 .scroll-bar::-webkit-scrollbar {
   /* scrollbar-width: thin; */
-  width: 0.3rem;
+  width: 0.25rem;
   /* scrollbar-color: #4f228d; */
 }
 
@@ -60,5 +60,5 @@
 
 /* Handle */
 .scroll-bar::-webkit-scrollbar-thumb {
-  background: grey;
+  background: #25a469;
 }

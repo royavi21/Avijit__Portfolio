@@ -47,7 +47,7 @@ const Head: React.FC<HeadProps> = ({ onMouseDown, onMouseMove, onMouseUp }) => {
         />
       </ul>
       <Link
-        to={"https://visual.harshkeshri.com"}
+        to={"https://royavi21.github.io/Avijit_Portfolio/"}
         hrefLang="_blank"
         className="text-commandResult font-semibold text-sm"
       >

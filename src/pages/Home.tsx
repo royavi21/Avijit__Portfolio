@@ -35,7 +35,7 @@ const Home = () => {
       Ctx.setIsNew(false);
     } else if (cmd === "n") {
       alert("You are Redirecting to my Visual portfolio");
-      window.location.href = "https://visual.harshkeshri.com";
+      window.location.href = "https://royavi21.github.io/Avijit_Portfolio/";
     }
   };
 
@@ -109,7 +109,7 @@ const Home = () => {
                 }}
               >
                 <img
-                  src="/jpeg/airbornharsh.jpeg"
+                  src="public/jpeg/airbornharsh.jpeg"
                   alt="photo"
                   className="h-8 w-8"
                 />

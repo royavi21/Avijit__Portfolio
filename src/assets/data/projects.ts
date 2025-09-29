@@ -4,7 +4,7 @@ const Projects = [
     description:
       "Anyone can run the code from github using this website and can edit it also",
     id: "github-codespace",
-    githubLink: "https://github.com/Airbornharsh/github-codespace",
+    githubLink: "https://github.com/royavi21?tab=repositories",
     type: "Website",
     isWebsite: false,
     technologies: [
@@ -20,7 +20,7 @@ const Projects = [
     name: "H Serverless",
     description: "Anyone can run the serverless code",
     id: "h-serverless",
-    githubLink: "https://github.com/Airbornharsh/h-serverless",
+    githubLink: "https://github.com/royavi21?tab=repositories",
     type: "Website",
     isWebsite: false,
     technologies: [
@@ -35,7 +35,7 @@ const Projects = [
     name: "AWS Services",
     description: "Made aws services from scratch like S3, DynamoDB, Lambda",
     id: "aws-services",
-    githubLink: "https://github.com/Airbornharsh/aws-services",
+    githubLink: "https://github.com/royavi21?tab=repositories",
     type: "Website",
     isWebsite: false,
     technologies: [
@@ -50,10 +50,10 @@ const Projects = [
     description:
       "this is a code compiler where you can compile your code and run it. It supports many languages like C, C++, Javascript, Java, GoLang, Python",
     id: "code-coompiler",
-    githubLink: "https://github.com/Airbornharsh/code-compiler",
+    githubLink: "https://github.com/royavi21?tab=repositories",
     type: "Website",
     isWebsite: true,
-    webLink: "https://code-compiler.harshkeshri.com",
+    webLink: "https://github.com/royavi21?tab=repositories",
     technologies: [
       { name: "React" },
       { name: "Vite" },
@@ -68,10 +68,10 @@ const Projects = [
     description:
       "Players can play chess with each other using the link or code",
     id: "chess",
-    githubLink: "https://github.com/Airbornharsh/chess",
+    githubLink: "https://github.com/royavi21?tab=repositories",
     type: "Website",
     isWebsite: true,
-    webLink: "https://chess.harshkeshri.com",
+    webLink: "https://github.com/royavi21?tab=repositories",
     technologies: [
       { name: "React" },
       { name: "Typescript" },
@@ -87,10 +87,10 @@ const Projects = [
     description:
       "A clone of Twitter with many features. It includes frontend and backend both",
     id: "twitter-clone",
-    githubLink: "https://github.com/Airbornharsh/twitter-clone-frontend",
+    githubLink: "https://github.com/royavi21?tab=repositories",
     type: "Website",
     isWebsite: true,
-    webLink: "https://x.harshkeshri.com",
+    webLink: "https://github.com/royavi21?tab=repositories",
     technologies: [
       { name: "React" },
       { name: "Typescript" },
@@ -104,7 +104,7 @@ const Projects = [
     name: "Ecommerce-Backend",
     description: "Ecommerce Backend",
     id: "ecommerce-backend",
-    githubLink: "https://github.com/Airbornharsh/ecommerce-backend-go",
+    githubLink: "https://github.com/royavi21?tab=repositories",
     type: "Backend",
     isWebsite: false,
     webLink: "",
@@ -114,7 +114,7 @@ const Projects = [
     name: "Holio-Backend",
     description: "Hotel Management System",
     id: "holio-backend",
-    githubLink: "https://github.com/Airbornharsh/holio-go",
+    githubLink: "https://github.com/royavi21?tab=repositories",
     type: "Backend",
     isWebsite: false,
     webLink: "",
@@ -125,7 +125,7 @@ const Projects = [
     description:
       "Students and Faculty manage the Student Profile and student can pay mess bill,fee payment,add leave application and more",
     id: "stums-app",
-    githubLink: "https://github.com/Airbornharsh/stums_app",
+    githubLink: "https://github.com/royavi21?tab=repositories",
     type: "App",
     isWebsite: false,
     webLink: "",
@@ -135,7 +135,7 @@ const Projects = [
     name: "Stums Backend (College Hackathon Project for Tech Fest)",
     description: "Backend For Stums",
     id: "stums-app",
-    githubLink: "https://github.com/Airbornharsh/stums-web-and-server",
+    githubLink: "https://github.com/royavi21?tab=repositories",
     type: "App",
     isWebsite: false,
     webLink: "",
@@ -149,21 +149,21 @@ const Projects = [
     name: "Shore App",
     description: "Social Meida App",
     id: "shore-app",
-    githubLink: "https://github.com/Airbornharsh/Shore_app",
+    githubLink: "https://github.com/royavi21?tab=repositories",
     type: "App",
     isWebsite: true,
     webLink:
-      "https://play.google.com/store/apps/details?id=com.airbornharsh.shore_app",
+      "https://github.com/royavi21?tab=repositories",
     technologies: [{ name: "Flutter" }],
   },
   {
     name: "Shore Backend",
     description: "Backend for Shore App",
     id: "shore-backend",
-    githubLink: "https://github.com/Airbornharsh/Shore-web-server",
+    githubLink: "https://github.com/royavi21?tab=repositories",
     type: "App",
     isWebsite: true,
-    webLink: "https://shore.vercel.app/",
+    webLink: "https://github.com/royavi21?tab=repositories",
     technologies: [
       { name: "Next Js" },
       { name: "MongoDb" },
@@ -174,11 +174,11 @@ const Projects = [
     name: "DTask App",
     description: "You can Store your task and view it as per your Choice",
     id: "mtrace",
-    githubLink: "https://github.com/Airbornharsh/DTask-app",
+    githubLink: "https://github.com/royavi21?tab=repositories",
     type: "App",
     isWebsite: true,
     webLink:
-      "https://play.google.com/store/apps/details?id=com.airbornharsh.dtask",
+      "https://github.com/royavi21?tab=repositories",
     technologies: [{ name: "Flutter" }],
   },
   {
@@ -186,21 +186,21 @@ const Projects = [
     description:
       "you can store your details about your expenses categories wise (Due to heroku free tier down it is not working fine but it will be in sometime)",
     id: "tracer",
-    githubLink: "https://github.com/Airbornharsh/Mtrace-app-and-web-",
+    githubLink: "https://github.com/royavi21?tab=repositories",
     type: "App",
     isWebsite: true,
     webLink:
-      "https://play.google.com/store/apps/details?id=com.airbornharsh.mtrace_app",
+      "https://github.com/royavi21?tab=repositories",
     technologies: [{ name: "Flutter" }],
   },
   {
     name: "Poll3",
     description:
       "It is Polling app where you can just create your poll and share the link to other and they can vote using crypto wallet. This is based on Web 3 using Goerli Eth",
-    githubLink: "https://github.com/Airbornharsh/pollingapp-web3",
+    githubLink: "https://github.com/royavi21?tab=repositories",
     type: "Website",
     isWebsite: true,
-    webLink: "https://poll3.vercel.app/",
+    webLink: "https://github.com/royavi21?tab=repositories",
     technologies: [
       { name: "Solidity" },
       { name: "HardHat" },
@@ -214,10 +214,10 @@ const Projects = [
     description:
       "This is a Internship Test project which I was told to craete using React,SST and AWs. Where you can have the videos and courses for gyming. (Backend not working as Aws charges for it)",
     id: "gymnaism",
-    githubLink: "https://github.com/Airbornharsh/Gymnaism",
+    githubLink: "https://github.com/royavi21?tab=repositories",
     type: "Website",
     isWebsite: true,
-    webLink: "https://gymnaism.netlify.app",
+    webLink: "https://github.com/royavi21?tab=repositories",
     technologies: [
       { name: "JavaScript" },
       { name: "Tailwind CSS" },
@@ -231,7 +231,7 @@ const Projects = [
     description:
       "This is two service Where customer can shop in the nearby store",
     id: "hopl",
-    githubLink: "https://github.com/Airbornharsh/hopl",
+    githubLink: "https://github.com/royavi21?tab=repositories",
     type: "App & Website",
     isWebsite: false,
     webLink: "",
@@ -248,10 +248,10 @@ const Projects = [
     name: "Arime",
     description: "Here you can get any anime Details",
     id: "arime",
-    githubLink: "https://github.com/Airbornharsh/Arime",
+    githubLink: "https://github.com/royavi21?tab=repositories",
     type: "Website",
     isWebsite: true,
-    webLink: "https://arime.vercel.app",
+    webLink: "https://github.com/royavi21?tab=repositories",
     technologies: [
       { name: "JavaScript" },
       { name: "Tailwind CSS" },
@@ -264,10 +264,10 @@ const Projects = [
     description:
       "you can store your details about your expenses categories wise (Due to heroku free tier down it is not working fine but it will be in sometime)",
     id: "tracer",
-    githubLink: "https://github.com/Airbornharsh/Tracer",
+    githubLink: "https://github.com/royavi21?tab=repositories",
     type: "Website",
     isWebsite: true,
-    webLink: "https://mtrace.netlify.app",
+    webLink: "https://github.com/royavi21?tab=repositories",
     technologies: [
       { name: "JavaScript" },
       { name: "Tailwind CSS" },
@@ -281,10 +281,10 @@ const Projects = [
     description:
       "It is a game of Tic Tak Toe where two player can player in same device. In future, I will add socket to it so that player can play from different Devices",
     id: "tictaktoe",
-    githubLink: "https://github.com/Airbornharsh/TIC_TAK_TOE",
+    githubLink: "https://github.com/royavi21?tab=repositories",
     type: "Website",
     isWebsite: true,
-    webLink: "https://airbornharsh.github.io/TIC_TAK_TOE",
+    webLink: "https://github.com/royavi21?tab=repositories",
     technologies: [{ name: "Html" }, { name: "CSS" }, { name: "JavaScript" }],
   },
   {
@@ -292,10 +292,10 @@ const Projects = [
     description:
       "It is a game of bingo where two player can player in same device. In future, I will add socket to it so that player can play from different ",
     id: "bingo",
-    githubLink: "https://github.com/Airbornharsh/BINGO",
+    githubLink: "https://github.com/royavi21?tab=repositories",
     type: "Website",
     isWebsite: true,
-    webLink: "https://airbornharsh.github.io/Snake_and_Ladder",
+    webLink: "https://github.com/royavi21?tab=repositories",
     technologies: [{ name: "Html" }, { name: "CSS" }, { name: "JavaScript" }],
   },
 ];

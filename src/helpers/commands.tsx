@@ -97,7 +97,7 @@ const AboutCommand = () => {
 
       <span>
         <p>
-          👋 Hello World! I'm Harsh Keshri, a passionate Full Stack Developer
+          👋 Hello World! I'm Avijit Roy, a passionate Full Stack Developer and a Cybersecurity enthusiast
           with expertise in:
         </p>
       </span>
@@ -146,12 +146,12 @@ const ContactCommand = () => {
         <p>
           Email:{" "}
           <a
-            href="mailto:harshkeshri1234567@gmail.com"
+            href="mailto:avijitroy9987@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
             className="font-extralight"
           >
-            harshkeshri1234567@gmailcom
+            avijitroy9987@gmail.com
           </a>
         </p>
       </li>
@@ -159,12 +159,12 @@ const ContactCommand = () => {
         <p>
           Github:{" "}
           <a
-            href="https://github.com/airbornharsh"
+            href="https://github.com/royavi21"
             target="_blank"
             rel="noopener noreferrer"
             className="font-extralight"
           >
-            @airbornharsh
+            @royavi21
           </a>
         </p>
       </li>
@@ -172,12 +172,12 @@ const ContactCommand = () => {
         <p>
           LinkedIn:{" "}
           <a
-            href="https://linkedin.com/in/airbornharsh"
+            href="https://linkedin.com/in/gray-hat-avi"
             target="_blank"
             rel="noopener noreferrer"
             className="font-extralight"
           >
-            @airbornharsh
+             @royavi21
           </a>
         </p>
       </li>
@@ -185,12 +185,12 @@ const ContactCommand = () => {
         <p>
           X:{" "}
           <a
-            href="https://x.com/airbornharsh"
+            href="https://x.com/alyehandro"
             target="_blank"
             rel="noopener noreferrer"
             className="font-extralight"
           >
-            @airbornharsh
+             @royavi21
           </a>
         </p>
       </li>
@@ -198,12 +198,12 @@ const ContactCommand = () => {
         <p>
           Instagram:{" "}
           <a
-            href="https://instagram.com/airbornharsh"
+            href="https://instagram.com/_aviroy_"
             target="_blank"
             rel="noopener noreferrer"
             className="font-extralight"
           >
-            @airbornharsh
+             @royavi21
           </a>
         </p>
       </li>
@@ -266,6 +266,7 @@ const SkillsCommand = () => {
             <li>JavaScript</li>
             <li>TypeScript</li>
             <li>GoLang</li>
+            <li>Python</li>
             <li>C++</li>
             <li>C#</li>
             <li>Dart</li>
@@ -281,7 +282,6 @@ const SkillsCommand = () => {
             <li>React</li>
             <li>Flutter</li>
             <li>Next.js</li>
-            <li>RazorPay</li>
           </ul>
         </div>
 
@@ -345,27 +345,27 @@ const EducationCommand = () => {
       <h2 className="text-2xl font-bold mb-4">Education:</h2>
 
       <EducationCard
-        degree="BTech (CSE)"
-        institution="Government College of Engineering, Kalahandi"
-        location="Bhawanipatna"
-        grade="8.61 SGPA (1st Semester)"
+        degree="BSC (CSE)"
+        institution="Northern University of Business and Technology"
+        location="Khulna"
+        grade="4/4 CGPA (1st Semester)"
         year="Ongoing"
       />
 
       <EducationCard
-        degree="12th"
-        institution="Nirmala English School"
-        location="Rajgangpur"
-        grade="86.4%"
-        year="2020"
+        degree="Diploma (CSE)"
+        institution="Faridpur Polytechnic Institute"
+        location="Faridpur"
+        grade="3.96/4.0"
+        year="2024"
       />
 
       <EducationCard
         degree="10th"
-        institution="Nirmala English School"
-        location="Rajgangpur"
-        grade="82.6%"
-        year="2018"
+        institution="Khan Saheb S.Mosarorof H. School and College"
+        location="Tungipara"
+        grade="4.72/5.0"
+        year="2020"
       />
     </div>
   );
@@ -379,23 +379,22 @@ const ExperienceCommand = () => {
       {/* Experience 1 */}
       <div className="p-6 rounded-lg shadow-md mb-8">
         <h3 className="text-xl font-bold mb-2">
-          Intelligent Cloud Applications
+          Agradut United Club
         </h3>
         <p className="mb-2">Full Stack Web Developer</p>
         <p className="mb-2">
           Managed backend operations, oversaw multiple websites, troubleshooted
           errors, devised innovative solutions, and led an intern team.
         </p>
-        <p className="text-gray-400">From: November 2022 - Present</p>
+        <p className="text-gray-400">From: November 2019 - Present</p>
       </div>
 
       {/* Experience 2 */}
       <div className="p-6 rounded-lg shadow-md mb-8">
-        <h3 className="text-xl font-bold mb-2">BWorkz</h3>
-        <p className="mb-2">Full Stack Web Developer</p>
+        <h3 className="text-xl font-bold mb-2">Info Guard</h3>
+        <p className="mb-2">Cybersecurity Analyst</p>
         <p className="mb-2">
-          Developed entire backend and frontend, contributed to logic
-          implementation, and provided assistance across the project.
+          Monitors systems for threats, investigates security incidents, and implements protective measures to keep networks and data safe.
         </p>
         <p className="text-gray-400">From: August 2022 - October 2022</p>
       </div>

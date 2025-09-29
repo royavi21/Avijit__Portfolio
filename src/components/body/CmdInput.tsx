@@ -46,9 +46,9 @@ const CmdInput = ({ inputRef, scrollFn }: CmdInputProps) => {
           className="flex flex-col font-semibold w-[100%] max-w-[100%] "
         >
           <div className="flex font-semibold w-[100%] max-w-[100%] ">
-            <p className="text-color3">harsh</p>
+            <p className="text-color3">roy</p>
             <p className="text-grey">@</p>
-            <p className="text-success">airbornharsh</p>
+            <p className="text-success">avijit</p>
             <p className="text-grey ml-2 mr-2">$</p>
             {tempCmdList.map((cmd, index) => {
               const checkedCmd = CheckCommand(cmd);
@@ -57,7 +57,7 @@ const CmdInput = ({ inputRef, scrollFn }: CmdInputProps) => {
                   className="font-medium"
                   key={index}
                   style={{
-                    color: checkedCmd ? "#00ff00" : "#ff0000",
+                    color: checkedCmd ? "#00ff00" : "#f54242ff",
                     marginRight: index === cmdList.length - 1 ? "0" : "0.5rem",
                   }}
                 >
@@ -82,9 +82,9 @@ const CmdInput = ({ inputRef, scrollFn }: CmdInputProps) => {
 
   return (
     <li className="flex font-semibold w-[100%] max-w-[100%] ">
-      <p className="text-color3">harsh</p>
+      <p className="text-color3">roy</p>
       <p className="text-grey">@</p>
-      <p className="text-success">airbornharsh</p>
+      <p className="text-success">avijit</p>
       <p className="text-grey ml-2 mr-2">$</p>
       {Ctx.isNew ||
         cmdList.map((tempCmd, index) => {
@@ -94,7 +94,7 @@ const CmdInput = ({ inputRef, scrollFn }: CmdInputProps) => {
               className="font-medium"
               key={"cmdview" + index}
               style={{
-                color: checkedCmd ? "#00ff00" : "#ff0000",
+                color: checkedCmd ? "#00ff00" : "#e31c1cff",
                 marginRight: index === cmdList.length - 1 ? "0" : "0.5rem",
               }}
             >

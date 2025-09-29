@@ -8,7 +8,7 @@ import { ContextProvider } from "./Context/ContextProvider.tsx";
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <>
     <Helmet>
-      <title>Harsh Keshri</title>
+      <title>Avijit_portflio</title>
     </Helmet>
     <ContextProvider>
       <BrowserRouter>
